@@ -1,6 +1,6 @@
 # gradcam_for_resnet
 
-This project is designed to visualize layer outputs of ResNet models. It uses libraries [pytorch-grad-cam]{https://github.com/jacobgil/pytorch-grad-cam/tree/master} and torch.
+This project is designed to visualize layer outputs of ResNet models. It uses libraries [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam/tree/master) and torch.
 
 ## Installation Guide
 To get a local working copy of the development repository, do:
