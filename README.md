@@ -44,4 +44,4 @@ python main.py --image-path "./image.jpeg" --model "resnet152" --layer 1 --block
 ```
  Input image                |  Output image
 :-------------------------:|:-------------------------:
-![](https://drive.google.com/file/d/11O6wOdjCQYoEZNFcLkwxiFpHq-XGvpVv/view?usp=sharing)  |  ![](https://drive.google.com/file/d/1TKZzn6zZV3Hflwt_BYRZ8bYZQ0c2msqB/view?usp=sharing)
+![](images/labr.jpeg)  |  ![](images/labr_out.jpeg)
